@@ -26,13 +26,13 @@
 - **블록체인 상호작용**: ethers.js
 - **스타일링**: CSS/Tailwind CSS
 ```
-### 환경 변수 설정
+## 환경 변수 설정
 
 프로젝트 루트에 `.env.local` 파일을 생성하고 다음 환경 변수를 설정하세요:
 
 ```
 # Supabase 
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_url\n
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 # Infura 또는 다른 RPC 제공자 URL (블록체인 네트워크 접근용)
