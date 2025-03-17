@@ -25,19 +25,5 @@
 - **데이터베이스**: Supabase
 - **블록체인 상호작용**: ethers.js
 - **스타일링**: CSS/Tailwind CSS
-```
-## 환경 변수 설정
 
-프로젝트 루트에 `.env.local` 파일을 생성하고 다음 환경 변수를 설정하세요:
-
-```
-- NEXT_PUBLIC_SUPABASE_URL=your_supabase_url\n
-- NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-
-- INFURA_URL_ETH=https://mainnet.infura.io/v3/your-infura-key
-- INFURA_URL_BASE=https://base-mainnet.infura.io/v3/your-infura-key
-- INFURA_URL_ARB=https://arbitrum-mainnet.infura.io/v3/your-infura-key
-- INFURA_URL_BSC=https://bsc-mainnet.infura.io/v3/your-infura-key
-
-```
 
